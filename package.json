@@ -1,12 +1,12 @@
 {
   "name": "apollo-server-hapi16",
   "version": "0.0.2",
-  "description": "Node.js GraphQL server for Hapi v16",
+  "description": "Fork of romanlv Node.js GraphQL server for Hapi v16",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/romanlv/apollo-server-hapi16"
+    "url": "https://github.com/kdhumphries/apollo-server-hapi16"
   },
   "scripts": {
     "compile": "tsc --build tsconfig.json",
